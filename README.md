@@ -8,7 +8,7 @@
 # 使用方式
 1. 打开爱奇艺官网 获取你的authcookie  获取方式 [文字教程](https://www.jianshu.com/p/b3759d78392b) ) authcookie有效期一般三个月
 2. 右上角fork本仓库
-3. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第四步)
+3. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活直接到第四步)
 4. 新增 new secret  参数名IQIYI_COOKIE 值是你刚才获取的authcookie
 5. 任意修改仓库内任意文件或点击右上角 Star 即可触发。
 
